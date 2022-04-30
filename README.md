@@ -1,6 +1,8 @@
 # Chat-with-rsa
 Discrete math lab 2
 
+Our team: me (that is all)
+
 server module and client module are in corresponding python files
 
 rsa module contains implementation of rsa algoritm and hash creation,
