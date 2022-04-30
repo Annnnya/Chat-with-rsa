@@ -13,7 +13,7 @@ class Server:
 
     def __init__(self, port: int) -> None:
         """crates all values"""
-        self.host = '192.168.178.60'
+        self.host = "127.0.0.1"
         self.port = port
         self.clients = []
         self.client_keys = {}
